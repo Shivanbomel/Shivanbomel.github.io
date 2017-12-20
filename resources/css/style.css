@@ -1,0 +1,14 @@
+body{
+  font-family: Helvetica;
+
+  text-align: center;
+}
+
+h1{
+  font-size: 50px
+}
+
+p{
+  position:relative;
+  top:100px;
+}
